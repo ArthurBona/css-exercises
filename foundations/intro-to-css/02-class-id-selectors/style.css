@@ -1,0 +1,18 @@
+#azulinho {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#verdinho {
+    background-color: #00ff00;
+    font-size: 24px;
+}
+
+.vermelhinhos{
+    background-color: #ffa7a7;
+    font-family: Verdana, "DejaVu-Sans", sans-serif;
+}
+
+.vermelhinhos.cooler{
+    font-size: 24px;
+}
