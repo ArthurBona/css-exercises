@@ -1,0 +1,15 @@
+.yellowish,
+.blackish {
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.yellowish {
+    color: hsl(0%, 0%, 0%);
+   background-color: hsl(60, 100%, 50%);
+}
+
+.blackish {
+    color: #FFFFFF;
+    background-color: rgb(00, 00, 00);
+}
